@@ -135,12 +135,3 @@ Acesse o endereço exibido (ex.: `http://127.0.0.1:7860`) .
 
 Este projeto é disponibilizado sob a licença MIT.
 Use livremente para estudos, demonstrações ou como base para projetos próprios.
-
----
-
-Pronto! Com este README, qualquer pessoa consegue:
-
-1. Instalar as dependências,
-2. Rodar o pipeline offline,
-3. Usar a versão com Agents SDK,
-4. Experimentar a interface Gradio em modo chatbot.
