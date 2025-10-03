@@ -4,6 +4,7 @@
 
 > **Aprendizado de Máquina com Agentes + Interface Gradio (IDs, sem recursão)**
 
+
 Este projeto demonstra como orquestrar um *pipeline* de Machine Learning usando **agentes inteligentes** (OpenAI Agents SDK) e também uma execução **offline 100% determinística**.
 Ele inclui:
 
